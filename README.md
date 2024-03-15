@@ -2,15 +2,15 @@ Gross Area of a Pleated Element: A Practical Guide for Engineers 📐
 
 Table of Contents 📚
 
-Introduction
+1. Introduction
 
-The Formula
+2. The Formula
 
-A Real-World Case Study
+3. A Real-World Case Study
 
-Why it Matters
+4. Why it Matters
 
-Engage and Learn
+5. Engage and Learn
 
 Introduction 🚀
 As engineers, we often encounter complex calculations that directly impact the efficiency and effectiveness of our designs. The Gross Area of a Pleated Element (Gross Area) is a critical parameter in filtration engineering. It determines the available surface area for filtration, which affects factors like airflow, dust holding capacity, and filter efficiency.
